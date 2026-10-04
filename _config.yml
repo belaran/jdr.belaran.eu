@@ -23,7 +23,7 @@ email: belaran@gmail.com
 description: >-
   Un site de jeu de rôle où Belaran publie ce qu'il veut.
 baseurl: ""
-url: ""
+url: "http://jdr.belaran.eu"
   #url: "https://jdr.belaran.eu" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: belaran
 lang: fr
