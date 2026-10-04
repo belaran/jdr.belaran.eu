@@ -1,0 +1,27 @@
+---
+---
+@import "minima";
+
+html {
+  background: transparent;
+  color: white;
+}
+
+body {
+  background-image: url("/assets/images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.post-content.e-content {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 1.5em;
+  border-radius: 8px;
+  color: white;
+}
+
+post-title p-name {
+  color: white
+}
